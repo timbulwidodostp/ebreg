@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'ebreg': Robust empirical Bayes confidence intervals Use ebreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ebreg.ado
+f ebreg.sthlp
