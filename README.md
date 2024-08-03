@@ -1,6 +1,8 @@
 # ebreg
 Robust empirical Bayes confidence intervals Use ebreg With STATA 18
 
+https://www.youtube.com/watch?v=UZqNatYXX-Y
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
